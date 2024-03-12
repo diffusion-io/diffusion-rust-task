@@ -77,3 +77,17 @@ Tooling.
 
 - Implement a CLI (Command Line Interface) to interact with the system.
 - Include unit and integration tests to cover critical functionalities and concurrency logic.
+
+## Task 5: Extension
+
+#### Objective: 
+
+To add an additional feature to the application: write a program which, given a specific word, will return a list of files that this word appears in, alongside its location in those files.
+
+#### Focus: 
+
+Specialized Data Structures.
+
+#### Requirements:
+
+- Implement a method or CLI to query the program for a specific word.
